@@ -15,7 +15,6 @@ library(ggraph)
 
 library(ggtext)
 library(ggforce)
-#library(systemfonts)
 
 library(sysfonts)
 
