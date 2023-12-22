@@ -9,6 +9,7 @@ Most of my visualization work is programmed with R. Check out the datasets and c
 # Gallery
 
 ### [What's common among Christmas movies?](./ChristmasMovies)
+Using ChatGPT to summarise the plot of each Christmas film in 5 adjectives and here are the common ones. Also, trialling the {openai} R library, a wrapper of OpenAI API endpoints.
 ![plot](./ChristmasMovies/XmasFilms_gpt4_5adjectives_2.png)
 
 ### [Which Harry Potter characters shared most personality attributes together?](./HarryPotter_traits)
